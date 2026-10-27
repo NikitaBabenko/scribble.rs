@@ -51,3 +51,7 @@ be checked on the assigned host. No runtime pass is claimed here.
 Upstream source, tests, examples, asset notices, and licenses are preserved.
 Original artwork exclusions in the upstream README still apply. Repository
 Actions are disabled; this integration has not run GitHub workflows.
+
+The deployment button explicitly selects `master`, which contains this wrapper.
+This avoids relying on the preview service to resolve the default branch; it
+does not fix or guarantee repository metadata availability.

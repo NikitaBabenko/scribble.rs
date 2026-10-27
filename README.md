@@ -17,7 +17,7 @@ It is an alternative to the web-based drawing game skribbl.io.
 **Not yet validated on VibeNest.** See the [integration status and limitations](vibenest/README.md)
 before using this deployment candidate.
 
-[![Deploy to VibeNest](https://vibenest.net/deploy-to-vibenest.svg)](https://vibenest.net/deploy?repo=https://github.com/NikitaBabenko/scribble.rs)
+[![Deploy to VibeNest](https://vibenest.net/deploy-to-vibenest.svg)](https://vibenest.net/deploy?repo=https://github.com/NikitaBabenko/scribble.rs&amp;branch=master)
 
 ## Play now
 
