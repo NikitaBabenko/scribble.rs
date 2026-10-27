@@ -12,6 +12,13 @@ advertisements and you don't need an account to play.
 
 It is an alternative to the web-based drawing game skribbl.io.
 
+## Deploy to VibeNest (candidate)
+
+**Not yet validated on VibeNest.** See the [integration status and limitations](vibenest/README.md)
+before using this deployment candidate.
+
+[![Deploy to VibeNest](https://vibenest.net/deploy-to-vibenest.svg)](https://vibenest.net/deploy?repo=https://github.com/NikitaBabenko/scribble.rs)
+
 ## Play now
 
 There are some community hosted versions of the game (feel free to host your own instance and add it here!):

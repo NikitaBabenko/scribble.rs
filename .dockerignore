@@ -21,3 +21,7 @@
 
 !public
 
+
+# VibeNest COPY-only packaging (preserve all upstream files in Git).
+!Dockerfile
+!vibenest/
